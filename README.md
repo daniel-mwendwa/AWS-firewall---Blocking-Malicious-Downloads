@@ -50,5 +50,5 @@ By using AWS Network Firewall with Suricata rules, organizations can:
 ## 📚 Author
 **Daniel Mwithui**  
 Cybersecurity Analyst / Cloud Security
-
+[LinkedIn](https://www.linkedin.com/in/daniel-mwendwa-mwithui/) | [GitHub](https://github.com/daniel-mwendwa)
 ---
