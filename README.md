@@ -11,7 +11,7 @@ It highlights a proactive approach to network security, ensuring that employees 
 [![AWS](https://img.shields.io/badge/AWS-Network%20Firewall-orange?logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com/network-firewall/)
 [![Suricata](https://img.shields.io/badge/IDS-Suricata-red?logo=suricata&logoColor=white)](https://suricata.io/)
 [![Security](https://img.shields.io/badge/Security-Enhanced-brightgreen?logo=securityscorecard&logoColor=white)](https://owasp.org/)
-[![Status](https://img.shields.io/badge/Status-Completed-blue)](https://github.com/daniel-mwendwa/aws-network-firewall-suricata)
+[![Status](https://img.shields.io/badge/Status-Completed-blue)](https://github.com/daniel-mwendwa/AWS-firewall---Blocking-Malicious-Downloads)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](https://opensource.org/licenses/MIT)
 
 
