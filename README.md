@@ -4,7 +4,7 @@ This project demonstrates how to **block malicious downloads** using **AWS Netwo
 It highlights a proactive approach to network security, ensuring that employees are protected from accessing malware-hosting domains.
 
 ---
-# 🔒 Blocking Malicious Downloads with AWS Network Firewall 
+# 🔒 Blocking Malicious Downloads with AWS Network Firewall  
 
 # 🔒 Blocking Malicious Downloads with AWS Network Firewall
 
